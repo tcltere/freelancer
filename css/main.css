@@ -10,20 +10,24 @@ a{
 	float: right;
 
 }
+
 header{
-font-size: 15px;
+	font-size: 15px;
 	color:#fff;
 	margin-left: 0;
 }
+
+
 .container {
 
 	width: 100%;
 	height:300px;
-	 padding-top: 50px;
-  background-color: #18bc9c;
-  position: absolute;
+	padding-top: 50px;
+	background-color: #18bc9c;
+	position: absolute;
 }
 body{
+	margin: 0;
 	font-family: 'Montserrat', sans-serif;
 }
 
@@ -73,7 +77,7 @@ span{
 	margin-left: 290px;
     padding-top: 30px;
     margin-bottom: 30px;
-    font-size: 13px;
+    font-size: 18px;
     color: #8697BF;
 
 }
